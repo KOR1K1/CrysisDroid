@@ -1,3 +1,3 @@
 <p align="center">
-<img src="https://i.ibb.co/L6cgBBV/Crysis-Droid-2.png" alt="CrysisDroidLogo">
+<img src="https://i.ibb.co/swykqxG/Crysis-Droid-3.png" alt="CrysisDroidLogo">
 </p>
