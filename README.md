@@ -1,3 +1,3 @@
-# CrysisDroid
-
-A magisk module for replace system sounds with sounds from the Crysis 2 game
+<p align="center">
+<img src="https://i.ibb.co/sqwVYLg/Crysis-Droid.png" alt="CrysisDroidLogo">
+</p>
