@@ -8,11 +8,12 @@
   </a>
 </object> -->
   <a href="https://github.com/KOR1K1/CrysisDroid/releases"><img src="https://img.shields.io/badge/download-crysis_droid-green?style=plastic&amp;logo=DocuSign&amp;logoColor=93ff00&amp;link=https%3A%2F%2Fgithub.com%2FKOR1K1%2FCrysisDroid%2Freleases" /></a>
-<object data="https://img.shields.io/github/downloads/KOR1K1/CrysisDroid/total?style=plastic&logo=Bookmeter&logoColor=e77200&label=Total%20downloads&color=e77200&link=https%3A%2F%2Fgithub.com%2FKOR1K1%2FCrysisDroid%2Freleases">
+<!-- <object data="https://img.shields.io/github/downloads/KOR1K1/CrysisDroid/total?style=plastic&logo=Bookmeter&logoColor=e77200&label=Total%20downloads&color=e77200&link=https%3A%2F%2Fgithub.com%2FKOR1K1%2FCrysisDroid%2Freleases">
 <a href="https://github.com/KOR1K1/CrysisDroid/releases">
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/KOR1K1/CrysisDroid/total?style=plastic&logo=Bookmeter&logoColor=e77200&label=Total%20downloads&color=e77200&link=https%3A%2F%2Fgithub.com%2FKOR1K1%2FCrysisDroid%2Freleases">
 </a>
-</object>
+</object> -->
+  <a href="https://github.com/KOR1K1/CrysisDroid/releases"><img src="https://img.shields.io/github/downloads/KOR1K1/CrysisDroid/total?style=plastic&logo=Bookmeter&logoColor=e77200&label=Total%20downloads&color=e77200&link=https%3A%2F%2Fgithub.com%2FKOR1K1%2FCrysisDroid%2Freleases" /></a>
 </p>
 
 # Introduction
