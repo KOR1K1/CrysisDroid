@@ -38,3 +38,6 @@ ROM: Tested on MIUI 14.0.3 Global
 Only bug report from the latest module version will be accepted
 
 - Github [issues](https://github.com/KOR1K1/CrysisDroid/issues)
+
+# License
+CrysisDroid is licensed under the MIT License
